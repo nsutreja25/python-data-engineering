@@ -26,7 +26,7 @@ The projects demonstrate core data engineering concepts including data ingestion
 - API ingestion
 - Data Quality Checks
 
-##Ingestion
+## Ingestion
 
 Implemented the initial data ingestion layer for the Oil & Gas Data Engineering platform. The ingestion framework retrieves energy datasets from external sources, handles API communication, converts raw responses into structured pandas DataFrames, and persists raw datasets for downstream processing.
 
